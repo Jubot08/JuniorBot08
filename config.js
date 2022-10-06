@@ -18,8 +18,8 @@ global.owner = [
   [''],
   [''],
 ] 
-global.suittag = ['tunumero'] 
-global.prems = ['tunumero'] 
+global.suittag = ['584261088403'] 
+global.prems = ['584261088403'] 
 
 global.packname = 'nombre del bot >sticker<'
 global.author = '★nombre del bot - ★'
