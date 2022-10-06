@@ -5,9 +5,9 @@ import fs from 'fs'
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
-  ['tunumero', '👑 nombre tuyo- Creador 👑', true],
-  ['tunumero', '👑 nombre del bot - BOT 👑', true],
-  ['Tunumero', '👑 nombre de tu colaborador - Collaborator 2 👑', true],
+  ['584261088403', '👑 Junior - Creador 👑', true],
+  ['584165767145', '👑 JuniorBot08 - BOT 👑', true],
+  ['584261088403', '👑 Alee - Collaborator 2 👑', true],
   ['', '👑 fenix - Collaborator 3 👑', true],
   ['', '👑 fenix - Collaborator 4 👑', true],
   ['', '👑 fenix - Collaborator 5 👑', true],
